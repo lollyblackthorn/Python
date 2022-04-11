@@ -14,7 +14,7 @@ valor = float(valor)
 
 valor = valor-(15/100)
 print("O novo valor é: ",valor)
-
+#--------------------------------------------------------------------------------------------------------------------------------------------------
 #2. Faça um programa que leia a validade das informações:
 #a. Idade: entre 0 e 150;
 #b. Salário: maior que 0;
@@ -45,3 +45,18 @@ elif Sexo == "Outro":
   print("Informação sexo válida!")
 else:
   print("Informação sexo inválida!")
+#----------------------------------------------------------------------------------------------------------------------------------
+#3. Ainda não encontrei uma resolução plausível.
+
+
+#-----------------------------------------------------------------------------------------------------------------------------------
+#4. Faça um programa que imprima a tabuada do 9 (de 9*1 a 9*10) usando loops.
+
+tabuada = 9
+
+while tabuada <= 9*10:
+  print(tabuada)
+  tabuada = tabuada + 9
+ 
+  
+
